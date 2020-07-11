@@ -1,0 +1,2 @@
+# cursoestadistica
+information of course
